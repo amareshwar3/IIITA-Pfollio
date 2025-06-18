@@ -1,7 +1,10 @@
 {
   "name": "iiitapfolio",
   "version": "1.0.0",
-  "description": "",
+  "engines": {
+    "node": ">=14"
+  },
+  "description": "IIITA-Pfollio",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
